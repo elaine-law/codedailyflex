@@ -19,6 +19,7 @@ export const data = {
     { name: "Dips", difficulty: "medium", gifName: "https://giphy.com/embed/wKdb2xwADyl3hQZmZh" },
     { name: "Peeing Dog", difficulty: "medium", gifName: "https://giphy.com/embed/XeXzWgD6P4LG8" },
     { name: "Wall Sits", difficulty: "easy", gifName: "https://giphy.com/embed/5hqs5R78mB5thn3eSc" },
+    { name: "Mountain Climbers", difficulty: "hard", gifName: "https://giphy.com/embed/5tcCIC11ifPe8" },
     { name: "Lunge Walk", difficulty: "hard", gifName: "https://giphy.com/embed/SiCZG4nwYg9rjqI6px" },
     { name: "Calf Raises", difficulty: "easy", gifName: "https://giphy.com/embed/4VYaL0JOguZrBgjQOt" },
     { name: "Planks", difficulty: "medium", gifName: "https://giphy.com/embed/CLjw2mHysNEYw" },
