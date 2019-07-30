@@ -1,8 +1,8 @@
 export const data = {
   warmups: [
     // "Jumping Jacks", // uncomment to cause pain
-    { name: "Windmill Toe Touches", difficulty: "easy", gifName: "https://giphy.com/embed/XeXzWgD6P4LG8" }
-    ,
+    { name: "Windmill Toe Touches", difficulty: "easy", gifName: "https://giphy.com/embed/XeXzWgD6P4LG8" },
+    { name: "SumoGuy Shoulder Stretch", difficulty: "easy", gifName: "https://giphy.com/embed/XeXzWgD6P4LG8" },
     { name: "Partner Squats", difficulty: "medium", gifName: "https://giphy.com/embed/XeXzWgD6P4LG8" },
     { name: "High Kicks", difficulty: "easy", gifName: 
     "https://giphy.com/embed/3og0IEF16olcKHWMUg" },
